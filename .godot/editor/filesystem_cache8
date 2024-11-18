@@ -1,0 +1,7 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1731949649
+icon.svg::CompressedTexture2D::6371935037862775429::1731516729::1731516736::1::::<><>::
+::res://Scene/::1731516983
+::res://Scene/clicker_prototype/::1731604265
+clicker_prototype.gd::GDScript::-1::1731604256::0::1::::ClickerPrototype<>Control<>::
+clicker_prototype.tscn::PackedScene::6437270826775058466::1731604265::0::1::::<><>::res://Scene/clicker_prototype/clicker_prototype.gd
